@@ -1,9 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 80 L02 Zoom (class 22 February 2021)
 ZCZC W00 25 L05 GSGS related
+
 ZCZC W01 100 L02 Zoom (class 01 March 2021)
+ZCZC W01 55 L01 SCELE Related (Quiz W01)
 ZCZC W01 30 L11 Assignment #1 (download resource and read instruction)
 ZCZC W01 65 L21 Virtualbox & debian related (install debian in virtual box)
+ZCZC W01 35 L23 Discord Related (Quiz in discord)
+ZCZC W01 75 L13 Assignment #3 related (CLI commands, bash, vi basics)
+ZCZC W01 15 L15 Assignment #5 related (Git)
+ZCZC W01 90Up L17 Assignment #7 related (Browsing TOP 10 links)
+ZCZC W01 10 L05 GSGS related (Learning how to use permalink)
+ZCZC W01 3 L10 Set up README.md to have link referring to w01.md (for github pages)
