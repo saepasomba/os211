@@ -14,3 +14,10 @@ ZCZC W01 15 L15 Assignment #5 related (Git)
 ZCZC W01 90 L17 Assignment #7 related (Browsing TOP 10 links)
 ZCZC W01 10 L05 GSGS related (Learning how to use permalink)
 ZCZC W01 3 L10 Set up README.md to have link referring to w01.md (for github pages)
+ZCZC W02 80 L02 Zoom (class 08 March 2021)
+ZCZC W02 10 L01 SCELE Related (Quiz W02)
+ZCZC W02 30 L23 Discord Related (Quiz in discord)
+ZCZC W02 25 L16 Reviewing neighbors' GitHub pages
+ZCZC W02 125 L10 Assignment related (Generate key)
+ZCZC W02 250 L10 Read and watch resources and to find top 10 list
+ZCZC W02 25  L12 Try some Week02's Demos
