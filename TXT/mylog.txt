@@ -20,4 +20,4 @@ ZCZC W02 30 L23 Discord Related (Quiz in discord)
 ZCZC W02 25 L16 Reviewing neighbors' GitHub pages
 ZCZC W02 125 L10 Assignment related (Generate key)
 ZCZC W02 250 L10 Read and watch resources and to find top 10 list
-ZCZC W02 25  L12 Try some Week02's Demos
+ZCZC W02 25 L12 Try some Week02's Demos
