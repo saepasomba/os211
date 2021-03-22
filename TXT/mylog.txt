@@ -21,3 +21,9 @@ ZCZC W02 25 L16 Reviewing neighbors' GitHub pages
 ZCZC W02 125 L10 Assignment related (Generate key)
 ZCZC W02 250 L10 Read and watch resources and to find top 10 list
 ZCZC W02 25 L12 Try some Week02's Demos
+ZCZC W03 100 L02 Zoom (class 17 March 2021)
+ZCZC W03 25 L01 SCELE Related (Quiz W03)
+ZCZC W03 25 L14 Reviewing neighbors' GitHub pages
+ZCZC W03 110 L10 Assignment related
+ZCZC W03 240 L10 Read and watch resources and to find top 10 list
+ZCZC W03 30 L12 Try some Demos
