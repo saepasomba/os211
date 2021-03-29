@@ -27,3 +27,9 @@ ZCZC W03 25 L14 Reviewing neighbors' GitHub pages
 ZCZC W03 110 L10 Assignment related
 ZCZC W03 240 L10 Read and watch resources and to find top 10 list
 ZCZC W03 30 L12 Try some Demos
+ZCZC W04 120 L02 Zoom (class 24 March 2021)
+ZCZC W04 10 L01 SCELE Related (Quiz W04 SPECIAL)
+ZCZC W04 30 L14 Reviewing neighbors' GitHub pages
+ZCZC W04 60 L10 Assignment related
+ZCZC W04 260 L10 Read and watch resources and to find top 10 list
+ZCZC W04 25 L12 Try some Demos
