@@ -33,10 +33,17 @@ ZCZC W04 30 L14 Reviewing neighbors' GitHub pages
 ZCZC W04 60 L10 Assignment related
 ZCZC W04 260 L10 Read and watch resources and to find top 10 list
 ZCZC W04 25 L12 Try some Demos
-ZCZC W05 110 L02 Zoom (class 1 April 2021)
+ZCZC W05 110 L02 Zoom (class 31 March 2021)
 ZCZC W05 85 L10 Assignment General
 ZCZC W05 30 L05 GSGS related (How to move file to virtual box)
 ZCZC W05 20 L03 GitHub related
 ZCZC W05 210 L10 Read and watch resources and to find top 10 list
 ZCZC W05 15 L14 Reviewing neigbors
 ZCZC W05 30 L23 Quiz on Discord
+ZCZC W06 100 L02 Zoom (class 7 April 2021)
+ZCZC W06 30 L01 SCELE related (Quiz)
+ZCZC W06 35 L08 Trying demos
+ZCZC W06 85 L10 Assignment General
+ZCZC W06 20 L03 GitHub related
+ZCZC W06 210 L10 Read and watch resources and to find top 10 list
+ZCZC W06 15 L14 Reviewing neigbors
