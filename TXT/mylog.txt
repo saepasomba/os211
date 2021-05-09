@@ -47,3 +47,10 @@ ZCZC W06 85 L10 Assignment General
 ZCZC W06 20 L03 GitHub related
 ZCZC W06 210 L10 Read and watch resources and to find top 10 list
 ZCZC W06 15 L14 Reviewing neigbors
+ZCZC W07 90 L02 Sync class
+ZCZC W07 30 L01 SCELE related (Quiz)
+ZCZC W07 30 L23 Discord related
+ZCZC W07 30 L08 Trying demos
+ZCZC W07 90 L10 Assignment General
+ZCZC W07 180 L10 Read and watch resources and to find top 10 list
+ZCZC W07 15 L14 Reviewing neigbors
